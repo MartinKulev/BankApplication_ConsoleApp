@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_Application_MVC", "Bank_Application_MVC.csproj", "{44349678-63D5-476A-9377-AE1AF07A57FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_Application_MVC_NunitTests", "..\Bank_Application_NunitTests\Bank_Application_MVC_NunitTests.csproj", "{ABF77650-AF3F-445D-B209-5DD00DA6F67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44349678-63D5-476A-9377-AE1AF07A57FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44349678-63D5-476A-9377-AE1AF07A57FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44349678-63D5-476A-9377-AE1AF07A57FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44349678-63D5-476A-9377-AE1AF07A57FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF77650-AF3F-445D-B209-5DD00DA6F67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF77650-AF3F-445D-B209-5DD00DA6F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF77650-AF3F-445D-B209-5DD00DA6F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF77650-AF3F-445D-B209-5DD00DA6F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4019ED7B-B2F1-413B-8583-564F5144AD94}
+	EndGlobalSection
+EndGlobal

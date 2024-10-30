@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Bank_Application_MVC_NunitTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57083;http://localhost:57084"
+    }
+  }
+}
